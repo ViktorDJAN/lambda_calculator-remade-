@@ -8,4 +8,3 @@ Calculator is able to compute complex mathematical expressions which use such op
 * '/'
 and brackets '(' , ')' so as well.
 
-### !!!
